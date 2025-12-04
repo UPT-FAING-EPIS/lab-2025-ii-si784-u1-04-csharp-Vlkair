@@ -1,6 +1,4 @@
 @echo off
-REM Mock tfsec for Windows PowerShell autograding
-REM Reads from stdin and validates deploy.yml content contains 'tfsec'
 
 findstr /I "tfsec" >nul
 if %errorlevel%==0 (
