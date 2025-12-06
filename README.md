@@ -4,9 +4,9 @@
 # INFORME DE LABORATORIO N° 04: Análisis Estático de Infraestructura como Código
 
 ## 📋 INFORMACIÓN GENERAL
-
-**Curso:** SI784 - Gestión de Configuración de Software  
+ 
 **Unidad:** 1  
+**Estudiante:** Victor Williams Cruz Mamani
 **Laboratorio:** 04 - Análisis Estático de Infraestructura como Código  
 **Fecha:** Diciembre 2025  
 **Repositorio:** lab-2025-ii-si784-u1-04-csharp-Vlkair
