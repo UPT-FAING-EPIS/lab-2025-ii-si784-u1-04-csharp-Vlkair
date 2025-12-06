@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VICTOR CRUZ\\Desktop\\unidad-1\\lab-2025-ii-si784-u1-04-csharp-Vlkair\\Shorten\\Shorten.csproj": {}
+    "C:\\Users\\VICTOR CRUZ\\Desktop\\unidad3\\lab-2025-ii-si784-u1-04-csharp-Vlkair\\Shorten\\Shorten.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VICTOR CRUZ\\Desktop\\unidad-1\\lab-2025-ii-si784-u1-04-csharp-Vlkair\\Shorten\\Shorten.csproj": {
+    "C:\\Users\\VICTOR CRUZ\\Desktop\\unidad3\\lab-2025-ii-si784-u1-04-csharp-Vlkair\\Shorten\\Shorten.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VICTOR CRUZ\\Desktop\\unidad-1\\lab-2025-ii-si784-u1-04-csharp-Vlkair\\Shorten\\Shorten.csproj",
+        "projectUniqueName": "C:\\Users\\VICTOR CRUZ\\Desktop\\unidad3\\lab-2025-ii-si784-u1-04-csharp-Vlkair\\Shorten\\Shorten.csproj",
         "projectName": "Shorten",
-        "projectPath": "C:\\Users\\VICTOR CRUZ\\Desktop\\unidad-1\\lab-2025-ii-si784-u1-04-csharp-Vlkair\\Shorten\\Shorten.csproj",
+        "projectPath": "C:\\Users\\VICTOR CRUZ\\Desktop\\unidad3\\lab-2025-ii-si784-u1-04-csharp-Vlkair\\Shorten\\Shorten.csproj",
         "packagesPath": "C:\\Users\\VICTOR CRUZ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VICTOR CRUZ\\Desktop\\unidad-1\\lab-2025-ii-si784-u1-04-csharp-Vlkair\\Shorten\\obj\\",
+        "outputPath": "C:\\Users\\VICTOR CRUZ\\Desktop\\unidad3\\lab-2025-ii-si784-u1-04-csharp-Vlkair\\Shorten\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VICTOR CRUZ\\AppData\\Roaming\\NuGet\\NuGet.Config"
